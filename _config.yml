@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+title: SunCube
+description: Wonderful page about SunCube
+logo: /Resources/logo.png
+show_downloads: false
