@@ -1,6 +1,5 @@
 theme: jekyll-theme-minimal
 gem "github-pages", group: :jekyll_plugins
-title: SunCube
 description: Indie game developer
 logo: /Resources/logo.png
 show_downloads: false
